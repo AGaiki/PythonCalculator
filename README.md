@@ -4,8 +4,7 @@ This a simple Python Calculator hosted on GitHub, but edited on Repl.it. Want to
 
 # Installation
 Download a release file from the "Releases." Extract it and run the EXE file.
-Run into any bugs? Fill out an issue form!
-
+Even though this program is compiled as an EXE, it still depends on Python, as well as Visual C++ Redistributable, so make sure you have that too!
 # Building it!
 So you want to build this Python project?
 Make sure that you have at least Python 3.8 installed.
